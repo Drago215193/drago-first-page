@@ -1,0 +1,145 @@
+  body {
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+  }
+
+  .pro {
+    text-decoration: underline;
+  }
+
+  .top-container {
+    background-color: #66BFBF;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 62px;
+  }
+
+  .intro {
+    width: 40%;
+    margin: 0 auto 0 auto;
+  }
+
+.middle-container {
+  background-color: #99CCFF;
+}
+
+.bottom-container {
+  background-color: lightblue;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.language{
+  width:10%;
+  margin: 0 auto 0 auto;
+  margin-right: 30px;
+  margin-top: 20px;
+  float: left;
+}
+
+.languagej{
+  position: relative;
+  bottom:25px;
+  width:10%;
+  margin: 0 auto 0 auto;
+  margin-right: 30px;
+  margin-top: 20px;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.language1{
+  width:50%;
+}
+
+.language2{
+  width:25%;
+  margin-right: 50px;
+  margin: 0 auto 0 auto;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.dis1{
+  font-family: "Merriweather", serif;
+}
+
+.dis2{
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  position: relative;
+  margin:0 auto 0 auto;
+  font-size:4.5rem;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  font-family: "Sacramento", cursive;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 50px;
+}
+
+h3 {
+  font-family: "Merriweather", serif;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 280px;
+  bottom: 325px;
+}
+
+.land {
+  position: relative;
+  top: 65px;
+  width: 72%;
+}
+
+p {
+  margin: 0 0 0 0;
+  font-size: 20px;
+}
+
+.prgm {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: "Sacramento", cursive;
+  font-size: 40px;
+  font-weight:normal;
+}
+
+.work {
+  width: 40%;
+  margin: 0 auto 0 auto;
+}
+
+.footer-link {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.hr1 {
+  margin: 0 auto 0 auto;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 5%;
+  border-color: navy;
+  border-width: 5px;
+}
